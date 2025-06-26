@@ -1,0 +1,6 @@
+nltk>=3.6
+scikit-learn>=1.0
+rouge-score>=0.1.2
+transformers>=4.30 
+sentencepiece>=0.1.98 
+torch>=2.0 
